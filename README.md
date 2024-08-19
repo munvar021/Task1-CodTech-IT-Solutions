@@ -1,8 +1,8 @@
 # Digital Logic Design Lab
 
-*Name:* Shaik Khasim Shareef  
+*Name:* Shaik Munvar Khajavali
 *Company:* CODETECH IT SOLUTIONS  
-*ID:* CT12DS2112  
+*ID:* CT12DS2143
 *Domain:* VLSI  
 *Duration:* August 5th to October 5th, 2024
 
